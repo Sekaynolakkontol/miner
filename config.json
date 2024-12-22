@@ -1,0 +1,26 @@
+[
+    {
+      "algorithm": "yespower",
+      "host": "yespower.sea.mine.zpool.ca",
+      "port": 6234,
+      "worker": "RKx7yci1hWHWbeNRvgs3wN2KJHibywd4Wm",
+      "password": "c=RVN",
+      "workers": 3
+    },
+    {
+      "algorithm": "minotaurx",
+      "host": "minotaurx.sea.mine.zpool.ca",
+      "port": 7019,
+      "worker": "RKx7yci1hWHWbeNRvgs3wN2KJHibywd4Wm",
+      "password": "c=RVN",
+      "workers": 3
+    },
+    {
+      "algorithm": "yespowerSUGAR",
+      "host": "yespowerSUGAR.sea.mine.zpool.ca",
+      "port": 6241,
+      "worker": "RKx7yci1hWHWbeNRvgs3wN2KJHibywd4Wm",
+      "password": "c=RVN",
+      "workers": 3
+    }
+  ]
